@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projectapp1</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_registeractivity.java">registeractivity.java</string>
+</resources>
